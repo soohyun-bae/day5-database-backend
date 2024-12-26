@@ -66,3 +66,5 @@ npm i express morgan dotenv cors cookie-parser
 npm i -D nodemon
 npm i -D eslint@^8 eslint-config-prettier eslint-plugin-prettier prettier
 ```
+
+## Postman으로 요청 보내보기 (Smoke test)
